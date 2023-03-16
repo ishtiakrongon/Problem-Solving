@@ -17,6 +17,8 @@ public class problem3 {
         System.out.println("Enter digit: ");
         int a = sc.nextInt();
 
+        sc.close();
+
         System.out.println("Incremented digit is " + incrementValue(a));
 
     }
