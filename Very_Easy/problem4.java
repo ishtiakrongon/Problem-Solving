@@ -2,7 +2,7 @@ package Very_Easy;
 import java.util.Scanner;
 
 
-public class areaTriangle {
+public class problem4 {
     
     static double area(double base, double height) {
         return (base * height) / 2;
