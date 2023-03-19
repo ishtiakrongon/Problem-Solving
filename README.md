@@ -1,5 +1,5 @@
 # Problem Solving
- This repository is for programming practice and solve various kinds of problems.
+ This repository is for programming practice and solved various kinds of problems.
  ---
 
 ## Very Easy Problems
