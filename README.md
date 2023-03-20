@@ -10,5 +10,3 @@
     - Write a function that takes an integer minutes and converts it to seconds. Examples convert(5) -> 300 | convert(3) -> 180. Don't forget to return the result.
 3. **Return the next number from the integer passed**
     - Create a function that takes a number as an argument, increments the number by +1 and returns the result. Examples addition(0) -> 1 | addition(9) -> 10 | addition(-3) -> -2. Return the result.
-4. **Area of a Triangle**
-    - Write a function that takes the base and height of a triangle and returns its area. The area of the triangle is: (base * height) / 2.
