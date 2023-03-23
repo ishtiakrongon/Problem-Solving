@@ -11,4 +11,4 @@
 3. **Return the next number from the integer passed**
     - Create a function that takes a number as an argument, increments the number by +1 and returns the result. Examples addition(0) -> 1 | addition(9) -> 10 | addition(-3) -> -2. Return the result.
 4. **Area of a triangle**
-    - 
+    - Write a function that takes the base and height of a triangle and return its area. Examples triArea(3, 2) -> 3
